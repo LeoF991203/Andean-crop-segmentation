@@ -3,3 +3,8 @@ geopandas
 rasterio
 torch
 numpy
+seaborn
+torchvision
+scikit-learn
+torchsummary
+
