@@ -4,3 +4,8 @@ rasterio
 torch
 numpy
 torchsummary
+seaborn
+torchvision
+scikit-learn
+torchsummary
+
